@@ -12,7 +12,7 @@
 
 import java.util.Scanner; 
 
-public class main {
+public class LP_Atividade_N1_1_04_2040482612031 {
 
     /* Para a movimentação das peças, será necessário criar 2 funções, uma para printar
         o tabuleiro e outra para movimentar as peças. */
